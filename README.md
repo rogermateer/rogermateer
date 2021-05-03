@@ -34,4 +34,6 @@ So, it's a balancing act, and practicing discipline helps.
 
 🌱 I’m currently learning [Julia](https://julialang.org/) because I think it will be a good fit for the types of personal project I'm interested in pursuing - some of which I will be hosting on this GitHub account in the medium term.
 
-📫 rogermateer (AT) gmail (DOT) com
+Email: rogermateer (AT) gmail (DOT) com
+
+Twitter: (AT) rogermateer
