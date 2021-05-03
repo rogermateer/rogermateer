@@ -18,7 +18,7 @@ I have wide interests in both the sciences and the humanities, including but not
 Consider me an all-round curious character.
 
 Myers-Briggs Type Indicator:
-I am an INFP. I used to think I was INTP, but I now see that doesn't fit properly. I value authenticity more than accuracy.
+I am an INFP. I used to think I was INTP or INxP, but I now see that doesn't fit properly. I value authenticity more than accuracy.
 
 My Big5 Traits are: 
 * Openness: high and happy with it.
