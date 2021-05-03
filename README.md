@@ -27,9 +27,8 @@ My Big5 Traits are:
 * Agreeableness: high and mostly happy with it.
 * Neuroticism: highish and working on decreasing.
 
-(Interestingly, because of high agreeableness, I can be highly motivated at work, especially if surrounded by a motivating team. 
-But then I burn through my conscientiousness budget, so to speak, and find it harder to be motivated outside of work as well. 
-So, it's a balancing act, and practicing discipline helps.)
+I can be highly motivated at work, especially if I find the work intrinsically interesting and am surrounded by a motivating team - as is pretty much the case currently. But then I burn through my conscientiousness budget, so to speak, and find it harder to be motivated outside of work as well. 
+So, it's a balancing act, and practicing discipline helps.
 
 ⚡ I am an Emacs zealot, but I don't proselytize.
 
