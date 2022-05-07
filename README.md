@@ -30,7 +30,7 @@ My Big5 Traits are:
 I can be highly motivated at work, especially if I find the work intrinsically interesting and am surrounded by a motivating team - as is pretty much the case currently. But then I burn through my conscientiousness budget, so to speak, and find it harder to be motivated outside of work as well. 
 So, it's a balancing act, and practicing discipline helps.
 
-⚡ I am an Emacs zealot, but I don't proselytize.  
+⚡ I am an Emacs zealot, but I don't proselytize. :relieved:  
 I have used :ice_cream:[Vanilla Emacs](https://www.gnu.org/software/emacs/):ice_cream: since The Last Millenium :smirk: and have recently started getting into :alien:[Spacemacs](https://www.spacemacs.org/):alien:. :star_struck:
 
 🌱 I’m currently learning [Julia](https://julialang.org/) because I think it will be a good fit for the types of personal project I'm interested in pursuing - some of which I will be hosting on this GitHub account in the medium term.
