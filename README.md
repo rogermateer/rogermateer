@@ -1,40 +1,33 @@
-Hi there 👋 
+## Hi, I'm Roger 👋
 
-I'm Roger, and I live in South Africa. :south_africa:
+I'm a software engineer based in South Africa 🇿🇦, with experience spanning scientific modelling and financial systems.
 
-I have past programming experience in C++ and Java, but now work as a JavaScript developer.
+### Current focus
 
-I have past experience in scientific toolmaking in support of infectious disease research (mathematical modelling at both the biological and epidemiological level), but now work in financial technology.
+I'm currently working on independent projects exploring:
 
-I have wide interests in both the sciences and the humanities, including but not limited to:
-* Mathematics
-* Computer Science
-* Physics
-* Music (eclectic appreciation - but don't play any instrument)
-* Psychology
-* Philosophy
-* Comparative religion
+- systems design for complex domains
+- evaluation frameworks (how to reliably assess strategies and decisions)
+- AI-assisted development workflows (e.g. Claude Code)
 
-Consider me an all-round curious character.
+My main project is:
 
-Myers-Briggs Type Indicator:
-I am an INFP. I used to think I was INTP or INxP, but I now see that doesn't fit properly. I value authenticity more than accuracy.
+- **Synoculus** — an exploration of trading strategy evaluation and decision systems
 
-My Big5 Traits are: 
-* Openness: high and happy with it.
-* Conscientiousness: lowish and working on increasing.
-* Extraversion: low and happy with it.
-* Agreeableness: high and mostly happy with it.
-* Neuroticism: highish and working on decreasing.
+### Background
 
-I can be highly motivated at work, especially if I find the work intrinsically interesting and am surrounded by a motivating team - as is pretty much the case currently. But then I burn through my conscientiousness budget, so to speak, and find it harder to be motivated outside of work as well. 
-So, it's a balancing act, and practicing discipline helps.
+My work has included:
 
-⚡ I am an Emacs zealot, but I don't proselytize. 😌 
-I have used 🍨[Vanilla Emacs](https://www.gnu.org/software/emacs/)🍨 since The Last Millenium 😏 and have recently started getting into 👽[Spacemacs](https://www.spacemacs.org/)👽. 🤩
+- scientific toolmaking for infectious disease modelling (HIV/TB)
+- financial charting and analytics systems (C++, JavaScript)
+- long-term use of Agile practices and test-driven development (TDD)
 
-🌱 I’m currently learning [Julia](https://julialang.org/) because I think it will be a good fit for the types of personal project I'm interested in pursuing - some of which I will be hosting on this GitHub account in the medium term.
+### Tools & interests
 
-Email: rogermateer (AT) gmail (DOT) com
+- Languages: C++, JavaScript, Julia (recent)
+- Editor: Emacs / Spacemacs
+- Interested in systems that sit at the intersection of technical, analytical, and conceptual domains
 
-Twitter: (AT) rogermateer
+---
+
+More to come as projects are refined.
